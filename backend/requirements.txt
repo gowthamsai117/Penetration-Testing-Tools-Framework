@@ -1,0 +1,9 @@
+flask
+flask-cors
+dnspython
+requests
+beautifulsoup4
+python-nmap
+python-Wappalyzer
+shodan
+whois

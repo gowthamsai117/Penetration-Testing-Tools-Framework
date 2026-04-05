@@ -1,0 +1,977 @@
+[
+    {
+        "id": 51,
+        "timestamp": "2026-02-14 08:59:59",
+        "tool": "Nmap",
+        "target": "kietgroup.com",
+        "summary": "Port Scan Completed",
+        "output": "\nHost: 50.63.8.150 (up)\nHostnames: [{'name': 'kietgroup.com', 'type': 'user'}]\n------------------------------------------------------------\n\nTCP Ports:\nPORT     STATE      SERVICE         VERSION                       \n------------------------------------------------------------\n21       open       ftp             Microsoft ftpd                \n80       open       http            Microsoft IIS httpd 10.0      \n443      open       https                                         \n990      open       ftp             Microsoft ftpd                \n8443     open       http            Microsoft IIS httpd 10.0      \n",
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-02-14 08:55:59",
+        "tool": "WPScan",
+        "target": "https://codeforgovtech.in",
+        "summary": "WordPress Scan Completed",
+        "output": "\n[i] URL: https://codeforgovtech.in\n[+] WordPress detected\n\n[+] WordPress version: 6.8.2\n\n[+] Enumerating plugins:\n - card-elements-for-elementor\n - contact-form-7\n - elementor\n - elementor-pro\n - elementskit-lite\n - unicoach-core\n - wdesignkit\n\n[+] Enumerating themes:\n - unicoach\n\n[+] Users (from REST API):\n - admin (ID: 1, Slug: admin)\n - Bhanu (ID: 57, Slug: bhanuprabhas)\n - praveen (ID: 56, Slug: praveen)\n - Sampath (ID: 54, Slug: sampath)\n",
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-02-14 07:58:42",
+        "tool": "Nmap",
+        "target": "testphp.vulnweb.com",
+        "summary": "Port Scan Completed",
+        "output": "\nHost: 44.228.249.3 (up)\nHostnames: [{'name': 'testphp.vulnweb.com', 'type': 'user'}]\n------------------------------------------------------------\n\nTCP Ports:\nPORT     STATE      SERVICE         VERSION                       \n------------------------------------------------------------\n80       open       http            nginx 1.19.0                  \n",
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-02-14 07:50:12",
+        "tool": "Nmap",
+        "target": "presidio.com",
+        "summary": "Port Scan Completed",
+        "output": "\nHost: 23.185.0.1 (up)\nHostnames: [{'name': 'presidio.com', 'type': 'user'}]\nOS Prediction: Cisco SG 500 switch (88%)\n------------------------------------------------------------\n\nTCP Ports:\nPORT     STATE      SERVICE         VERSION                       \n------------------------------------------------------------\n80       open       http            Pantheon                      \n443      open       https           Pantheon                      \n",
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-02-14 07:49:14",
+        "tool": "Nmap",
+        "target": "presidio.com",
+        "summary": "Port Scan Completed",
+        "output": "\nHost: 23.185.0.1 (up)\nHostnames: [{'name': 'presidio.com', 'type': 'user'}]\n------------------------------------------------------------\n\nTCP Ports:\nPORT     STATE      SERVICE         VERSION                       \n------------------------------------------------------------\n80       open       http            Pantheon                      \n443      open       https           Pantheon                      \n",
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-02-14 07:46:42",
+        "tool": "Nmap",
+        "target": "kietgroup.com",
+        "summary": "Port Scan Completed",
+        "output": "\nHost: 50.63.8.150 (up)\nHostnames: [{'name': 'kietgroup.com', 'type': 'user'}]\n------------------------------------------------------------\n\nTCP Ports:\nPORT     STATE      SERVICE         VERSION                       \n------------------------------------------------------------\n21       open       ftp             Microsoft ftpd                \n80       open       http            Microsoft IIS httpd 10.0      \n443      open       https                                         \n8443     open       http            Microsoft IIS httpd 10.0      \n",
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-02-14 07:41:01",
+        "tool": "Nmap",
+        "target": "kietgroup.com",
+        "summary": "Port Scan Completed",
+        "output": "\nHost: 50.63.8.150 (up)\nHostnames: [{'name': 'kietgroup.com', 'type': 'user'}]\n--------------------------------------------------\n\nTCP Ports:\nPORT\t\tSTATE\t\tSERVICE\n--------------------------------------------------\n21\t\topen\t\tftp\n80\t\topen\t\thttp\n443\t\topen\t\thttps\n990\t\topen\t\tftp\n8443\t\topen\t\thttp\n",
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-02-14 07:27:52",
+        "tool": "Nmap",
+        "target": "kietgroup.com",
+        "summary": "Host: down, OS: Unknown, Open Ports: 0",
+        "output": {
+            "host": "kietgroup.com",
+            "status": "down",
+            "os": "Unknown",
+            "ports": [],
+            "raw_output": ""
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-02-14 07:17:26",
+        "tool": "Nmap",
+        "target": "kietgroup.com",
+        "summary": "Host: down, OS: Unknown, Open Ports: 0",
+        "output": {
+            "host": "kietgroup.com",
+            "status": "down",
+            "os": "Unknown",
+            "ports": [],
+            "raw_output": ""
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-02-14 07:08:51",
+        "tool": "Nmap",
+        "target": "presidio.in",
+        "summary": "Host: down, OS: Unknown, Open Ports: 0",
+        "output": {
+            "host": "presidio.in",
+            "status": "down",
+            "os": "Unknown",
+            "ports": [],
+            "raw_output": ""
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-02-14 07:08:46",
+        "tool": "Nmap",
+        "target": "presidio.com",
+        "summary": "Host: down, OS: Unknown, Open Ports: 0",
+        "output": {
+            "host": "presidio.com",
+            "status": "down",
+            "os": "Unknown",
+            "ports": [],
+            "raw_output": ""
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-02-14 07:03:35",
+        "tool": "Nmap",
+        "target": "presidio.in",
+        "summary": "Host: down, OS: Unknown, Open Ports: 0",
+        "output": {
+            "host": "presidio.in",
+            "status": "down",
+            "os": "Unknown",
+            "ports": [],
+            "raw_output": ""
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-02-14 07:02:00",
+        "tool": "Dig",
+        "target": "kietgroup.com",
+        "summary": "DNS Records Retrieved",
+        "output": {
+            "A_Record": [
+                "50.63.8.150"
+            ],
+            "MX_Records": [
+                "1 aspmx.l.google.com.",
+                "10 alt4.aspmx.l.google.com.",
+                "10 alt3.aspmx.l.google.com.",
+                "5 alt1.aspmx.l.google.com.",
+                "5 alt2.aspmx.l.google.com."
+            ],
+            "TXT_Records": "No TXT record found",
+            "NS_Records": [
+                "ns65.domaincontrol.com.",
+                "ns66.domaincontrol.com."
+            ],
+            "CNAME_Records": "No CNAME record found"
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-02-14 06:58:28",
+        "tool": "Nmap",
+        "target": "127.0.0.1",
+        "summary": "Host: up, OS: Linux 2.6.32, Open Ports: 1",
+        "output": {
+            "host": "127.0.0.1",
+            "status": "up",
+            "os": "Linux 2.6.32",
+            "ports": [
+                {
+                    "port": 5000,
+                    "protocol": "tcp",
+                    "state": "open",
+                    "service": "http",
+                    "version": "Werkzeug httpd 3.1.4"
+                }
+            ],
+            "raw_output": "host;hostname;hostname_type;protocol;port;name;state;product;extrainfo;reason;version;conf;cpe\r\n127.0.0.1;localhost;PTR;tcp;5000;http;open;Werkzeug httpd;Python 3.11.14;syn-ack;3.1.4;10;cpe:/a:python:python:3.11.14\r\n"
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-02-14 06:56:10",
+        "tool": "Nmap",
+        "target": "presidio.in",
+        "summary": "Host: down, OS: Unknown, Open Ports: 0",
+        "output": {
+            "host": "presidio.in",
+            "status": "down",
+            "os": "Unknown",
+            "ports": [],
+            "raw_output": ""
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-02-14 06:54:47",
+        "tool": "Nmap",
+        "target": "kietgroup.com",
+        "summary": "Host: down, OS: Unknown, Open Ports: 0",
+        "output": {
+            "host": "kietgroup.com",
+            "status": "down",
+            "os": "Unknown",
+            "ports": [],
+            "raw_output": ""
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-02-14 06:54:21",
+        "tool": "Nmap",
+        "target": "127.0.0.1",
+        "summary": "Host: up, OS: Linux 2.6.32, Open Ports: 1",
+        "output": {
+            "host": "127.0.0.1",
+            "status": "up",
+            "os": "Linux 2.6.32",
+            "ports": [
+                {
+                    "port": 5000,
+                    "protocol": "tcp",
+                    "state": "open",
+                    "service": "http",
+                    "version": "Werkzeug httpd 3.1.4"
+                }
+            ],
+            "raw_output": "host;hostname;hostname_type;protocol;port;name;state;product;extrainfo;reason;version;conf;cpe\r\n127.0.0.1;localhost;PTR;tcp;5000;http;open;Werkzeug httpd;Python 3.11.14;syn-ack;3.1.4;10;cpe:/a:python:python:3.11.14\r\n"
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-02-14 06:42:55",
+        "tool": "Nmap",
+        "target": "kietgroup.com",
+        "summary": "Port Scan Completed",
+        "output": "\nHost: 50.63.8.150 (up)\nHostnames: [{'name': 'kietgroup.com', 'type': 'user'}]\n--------------------------------------------------\n",
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-02-14 04:58:15",
+        "tool": "WPScan",
+        "target": "https://codeforgovtech.in",
+        "summary": "WordPress Scan Completed",
+        "output": "\n[i] URL: https://codeforgovtech.in\n[+] WordPress detected\n\n[+] WordPress version: 6.8.2\n\n[+] Enumerating plugins:\n - card-elements-for-elementor\n - contact-form-7\n - elementor\n - elementor-pro\n - elementskit-lite\n - unicoach-core\n - wdesignkit\n\n[+] Enumerating themes:\n - unicoach\n\n[+] Users (from REST API):\n - admin (ID: 1, Slug: admin)\n - Bhanu (ID: 57, Slug: bhanuprabhas)\n - praveen (ID: 56, Slug: praveen)\n - Sampath (ID: 54, Slug: sampath)\n",
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-02-14 04:57:54",
+        "tool": "WhatWeb",
+        "target": "https://codeforgovtech.in",
+        "summary": "Technologies Detected: 6",
+        "output": "\n[+] Technology Detection for https://codeforgovtech.in\n\n[+] Server: LiteSpeed\n[+] X-Powered-By: PHP/8.2.28\n[+] Generator: WordPress 6.8.2\n[+] CMS: WordPress\n[+] Library: jQuery\n[+] Framework: Bootstrap",
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-02-14 04:56:02",
+        "tool": "Dig",
+        "target": "kietgroup.com",
+        "summary": "DNS Records Retrieved",
+        "output": {
+            "A_Record": [
+                "50.63.8.150"
+            ],
+            "MX_Records": [
+                "1 aspmx.l.google.com.",
+                "10 alt4.aspmx.l.google.com.",
+                "10 alt3.aspmx.l.google.com.",
+                "5 alt1.aspmx.l.google.com.",
+                "5 alt2.aspmx.l.google.com."
+            ],
+            "TXT_Records": "No TXT record found",
+            "NS_Records": [
+                "ns65.domaincontrol.com.",
+                "ns66.domaincontrol.com."
+            ],
+            "CNAME_Records": "No CNAME record found"
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-01-16 06:48:14",
+        "tool": "WPScan",
+        "target": "https://presidio.com",
+        "summary": "WordPress Scan Completed",
+        "output": "\n[i] URL: https://presidio.com\n[+] WordPress detected\n\n[+] WordPress version: 6.8.2\n\n[+] Enumerating plugins:\n - akismet\n - contact-form-7\n - country-state-city-auto-dropdown\n - elementor\n - essential-grid\n - jetpack\n - js_composer\n - molongui-authorship\n - pardot\n - revslider\n - thegem-elements\n - usahtmlmap\n - webtoffee-gdpr-cookie-consent\n - wordfence\n - wp-event-manager\n - wpcf7-redirect\n - wpcf7r-popup\n - yoast-seo\n\n[+] Enumerating themes:\n - thegem\n - thegem-child\n\n[+] Users (from REST API):\n - Ally Smeed (ID: 80, Slug: asmeed)\n - Andy Richter (ID: 18, Slug: richtera)\n - Annie Cynthia (ID: 96, Slug: acynthia)\n - Brady O\u2019Brien (ID: 14, Slug: obrienb)\n - Campbell MacInnes (ID: 75, Slug: cmacinnes)\n - Collin Bunker (ID: 59, Slug: cbunker)\n - Dan Fatigato (ID: 110, Slug: dfatigato)\n - Dan Lohrmann (ID: 66, Slug: dlohrmann)\n - Dan O'Brien (ID: 109, Slug: danobrienpresidio-com)\n - Dave Trader (ID: 47, Slug: dtrader)\n",
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-01-16 06:47:43",
+        "tool": "Dig",
+        "target": "presidio.com",
+        "summary": "DNS Records Retrieved",
+        "output": {
+            "A_Record": [
+                "23.185.0.1"
+            ],
+            "MX_Records": [
+                "10 orl-mx01.presidio.com.",
+                "10 orl-mx02.presidio.com.",
+                "10 sva-mx02.presidio.com.",
+                "10 sva-mx01.presidio.com."
+            ],
+            "TXT_Records": [
+                [
+                    "openai-domain-verification=dv-ErvYpCyuvdCORh2cz4eOF4f2"
+                ],
+                [
+                    "jamf-site-verification=xO-AwQ-mgmoW88HR_YuTow"
+                ],
+                [
+                    "atlassian-sending-domain-verification=09e08a84-b483-4026-bb8b-425bc8de3fb4"
+                ],
+                [
+                    "montycloud=fc42bb7abd733a9ce4ac4b15452fb053"
+                ],
+                [
+                    "atlassian-domain-verification=yyoWcM9yECQRfLrM4UPfD5rCZdycgVu2mTVFZEbsJ+VFBv+qfz12EAJg/XVS6skl"
+                ],
+                [
+                    "atlassian-domain-verification=uxKCSPYrwoqmxnLj2afF6pS64oLcCbuMCVmsL0OF1Ry7WgY7rvTQcpyOdzKcnxBn"
+                ],
+                [
+                    "4uvWjvjq5BuIUpPsOUYAtI/U6hDRNql/IVObh1ARaVUy3l26oa0FUdI/y4pKfxh64YQ1YR8OPQmzq+055lZbYQ=="
+                ],
+                [
+                    "/EpAex2rpUHEToMIHeSB8LOODZ/5DiNhWLA+ZPqn8n676NLXrhGFfwR5L1o7jpd3fcm6Q3KkJz+DWKWOd3x3dQ=="
+                ],
+                [
+                    "pardot861831=346ee7e19a229cf1a8526ebfeae0d2c9500da8aa0334506dfaca07e29193f143"
+                ],
+                [
+                    "pardot861321=97b9ea848944c3f2ccf1c60a6f9b9da9b3655e91d59bfa7f2ab19ea772f3a92a"
+                ],
+                [
+                    "google-site-verification=xr2dwlfjfv4UA3_iK4dJH05SOYDu0ImduW2zwxm94Uc"
+                ],
+                [
+                    "google-site-verification=uAU0BowyRCVZCECgyDQ2Lbm3jUWUSo8stVGYl6DEI1E"
+                ],
+                [
+                    "google-site-verification=VYx9Y8JGOFExnsTEbUpcxfNjavJjX89sngOVpJfFFuk"
+                ],
+                [
+                    "google-site-verification=NPwPk_uvlz28a-SXeGABCJOf-iq0-cyV8PqrcHWdRgI"
+                ],
+                [
+                    "google-site-verification=N3KPON8wZEogFyAjrMiSNe8xOMu4omWAoXdUYw5eV9M"
+                ],
+                [
+                    "have-i-been-pwned-verification=f78233d436ec7d84b0c0975c9863a23d"
+                ],
+                [
+                    "onetrust-domain-verification=25a0346431b646f0bcfc5c13b4b19d19"
+                ],
+                [
+                    "teamviewer-sso-verification=a8f63b35cd1d48879e90243782083513"
+                ],
+                [
+                    "teamviewer-sso-verification=1de803ceda6f47ff9f41b84e67e905d5"
+                ],
+                [
+                    "miro-verification=be38040b44a22c9a9510a86d1541a94983e613c9"
+                ],
+                [
+                    "adobe-sign-verification=51d86191643a04912817ffae2fd5206"
+                ],
+                [
+                    "apple-domain-verification=dxl9WWyTOx60QxaN"
+                ],
+                [
+                    "v=spf1 redirect=4tzgge6x._spf._d.mim.ec"
+                ],
+                [
+                    "ZOOM_verify_CAkKpTCJQI6pwAhX9QuAiA"
+                ],
+                [
+                    "9cc85f60540e43cfb54fbbc76059da01"
+                ],
+                [
+                    "m68sfkhs1l4ue6ulr40uit0043"
+                ],
+                [
+                    "6qocumaj3v033gps370dtkjocv"
+                ],
+                [
+                    "1nik9fmud6gdfjfiv9oe8stscd"
+                ],
+                [
+                    "MS=ms56466268"
+                ],
+                [
+                    "MS=ms95452072"
+                ],
+                [
+                    "adeptat-domain-verification=fDhkXAYCTHBFmg5QFX8amYBMXfR2tonGqo-MGMoJ"
+                ],
+                [
+                    "calendly-site-verification=puGEz9JHQYXlfuoY6gyFwWA0XM8qo2xGpjo1hMr6m"
+                ]
+            ],
+            "NS_Records": [
+                "pubns0.presidio.com.",
+                "euns01.presidio.com.",
+                "pubns1.presidio.com.",
+                "euns02.presidio.com.",
+                "pubns4.presidio.com.",
+                "pubns3.presidio.com."
+            ],
+            "CNAME_Records": "No CNAME record found"
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-01-16 06:41:50",
+        "tool": "Sublist3r",
+        "target": "presidio.in",
+        "summary": "Subdomains Found: 8",
+        "output": "\n[-] Enumerating subdomains for presidio.in\n\n[-] Total Unique Subdomains Found: 8\n\n autodiscover.presidio.in\n cpanel.presidio.in\n cpcalendars.presidio.in\n cpcontacts.presidio.in\n mail.presidio.in\n webdisk.presidio.in\n webmail.presidio.in\n www.presidio.in",
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-01-16 06:41:41",
+        "tool": "Sublist3r",
+        "target": "presidio.com",
+        "summary": "Subdomains Found: 0",
+        "output": "\n[-] Enumerating subdomains for presidio.com\n\n[-] Total Unique Subdomains Found: 0\n\n",
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-01-16 06:40:55",
+        "tool": "Shodan",
+        "target": "presidio.com",
+        "summary": "Advanced Scan: 2 ports",
+        "output": "[+] Advanced Shodan-Lite Scan for presidio.com\nConfidence Score: 0.25\nCloud Provider: Unknown\n\nASN: None\nOrg: None\nCountry: None\n\n[+] Vulnerability Hints:\nNone detected.\n\n[+] Open Ports (2):\n80, 443\n\n[+] Service Analysis:\nPort 80: Unknown\nBanner:\nHTTP/1.1 301 Moved Permanently\r\nConnection: close\r\nContent-Length: 0\r\nRetry-After: 0\r\nServer: Pantheon\r\nLocation: https://www.presidio.com/\r\nX-Pantheon-Redirect: primary-domain-policy-doc\r\nAccept-Ranges: bytes\r\nDate: Fri, 16 Jan 2026 06:40:37 GMT\r\nVia: 1.1 varnish\r\nX-Served-By: cache-maa10224-MAA\r\nX-Cache: HIT\r\nX-Cache-Hits: 0\r\nX-Timer: S1768545638.740937,VS0,VE2\n---\nPort 443: Unknown\nBanner:\n\u0015\u0003\u0003\u0000\u0002\u00022\u0015\u0003\u0003\u0000\u0002\u0001\u0000\n---\n\n[+] Advanced HTTP Analysis:\nStatus: 200\nFinal URL: https://www.presidio.com/\nServer: nginx\nDetected Tech: WordPress, Nginx\nPage Hash: e67a840c541b470c...\n\n[+] TLS/SSL Analysis:\nSelf-Signed: False\nExpires: Mar 29 11:49:47 2026 GMT\nSANs (first 3): presidio.ai, presidio.com, www.presidio.ai\n",
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-01-16 06:40:12",
+        "tool": "Dnsenum",
+        "target": "presidio.com",
+        "summary": "DNS Enumeration Completed",
+        "output": {
+            "records": {
+                "A_Records": [
+                    "23.185.0.1"
+                ],
+                "AAAA_Records": "No AAAA record found",
+                "MX_Records": [
+                    "10 orl-mx02.presidio.com.",
+                    "10 sva-mx02.presidio.com.",
+                    "10 sva-mx01.presidio.com.",
+                    "10 orl-mx01.presidio.com."
+                ],
+                "NS_Records": [
+                    "euns01.presidio.com.",
+                    "pubns0.presidio.com.",
+                    "pubns1.presidio.com.",
+                    "euns02.presidio.com.",
+                    "pubns3.presidio.com.",
+                    "pubns4.presidio.com."
+                ],
+                "TXT_Records": [
+                    "\"pardot861321=97b9ea848944c3f2ccf1c60a6f9b9da9b3655e91d59bfa7f2ab19ea772f3a92a\"",
+                    "\"google-site-verification=xr2dwlfjfv4UA3_iK4dJH05SOYDu0ImduW2zwxm94Uc\"",
+                    "\"google-site-verification=uAU0BowyRCVZCECgyDQ2Lbm3jUWUSo8stVGYl6DEI1E\"",
+                    "\"google-site-verification=VYx9Y8JGOFExnsTEbUpcxfNjavJjX89sngOVpJfFFuk\"",
+                    "\"google-site-verification=NPwPk_uvlz28a-SXeGABCJOf-iq0-cyV8PqrcHWdRgI\"",
+                    "\"google-site-verification=N3KPON8wZEogFyAjrMiSNe8xOMu4omWAoXdUYw5eV9M\"",
+                    "\"have-i-been-pwned-verification=f78233d436ec7d84b0c0975c9863a23d\"",
+                    "\"onetrust-domain-verification=25a0346431b646f0bcfc5c13b4b19d19\"",
+                    "\"teamviewer-sso-verification=a8f63b35cd1d48879e90243782083513\"",
+                    "\"teamviewer-sso-verification=1de803ceda6f47ff9f41b84e67e905d5\"",
+                    "\"miro-verification=be38040b44a22c9a9510a86d1541a94983e613c9\"",
+                    "\"adobe-sign-verification=51d86191643a04912817ffae2fd5206\"",
+                    "\"apple-domain-verification=dxl9WWyTOx60QxaN\"",
+                    "\"v=spf1 redirect=4tzgge6x._spf._d.mim.ec\"",
+                    "\"ZOOM_verify_CAkKpTCJQI6pwAhX9QuAiA\"",
+                    "\"9cc85f60540e43cfb54fbbc76059da01\"",
+                    "\"m68sfkhs1l4ue6ulr40uit0043\"",
+                    "\"6qocumaj3v033gps370dtkjocv\"",
+                    "\"1nik9fmud6gdfjfiv9oe8stscd\"",
+                    "\"MS=ms56466268\"",
+                    "\"MS=ms95452072\"",
+                    "\"adeptat-domain-verification=fDhkXAYCTHBFmg5QFX8amYBMXfR2tonGqo-MGMoJ\"",
+                    "\"calendly-site-verification=puGEz9JHQYXlfuoY6gyFwWA0XM8qo2xGpjo1hMr6m\"",
+                    "\"openai-domain-verification=dv-ErvYpCyuvdCORh2cz4eOF4f2\"",
+                    "\"jamf-site-verification=xO-AwQ-mgmoW88HR_YuTow\"",
+                    "\"atlassian-sending-domain-verification=09e08a84-b483-4026-bb8b-425bc8de3fb4\"",
+                    "\"montycloud=fc42bb7abd733a9ce4ac4b15452fb053\"",
+                    "\"atlassian-domain-verification=yyoWcM9yECQRfLrM4UPfD5rCZdycgVu2mTVFZEbsJ+VFBv+qfz12EAJg/XVS6skl\"",
+                    "\"atlassian-domain-verification=uxKCSPYrwoqmxnLj2afF6pS64oLcCbuMCVmsL0OF1Ry7WgY7rvTQcpyOdzKcnxBn\"",
+                    "\"4uvWjvjq5BuIUpPsOUYAtI/U6hDRNql/IVObh1ARaVUy3l26oa0FUdI/y4pKfxh64YQ1YR8OPQmzq+055lZbYQ==\"",
+                    "\"/EpAex2rpUHEToMIHeSB8LOODZ/5DiNhWLA+ZPqn8n676NLXrhGFfwR5L1o7jpd3fcm6Q3KkJz+DWKWOd3x3dQ==\"",
+                    "\"pardot861831=346ee7e19a229cf1a8526ebfeae0d2c9500da8aa0334506dfaca07e29193f143\""
+                ],
+                "SOA_Records": [
+                    "pubns3.presidio.com. admin.presidio.com. 2023042877 10800 3600 1209600 900"
+                ]
+            },
+            "subdomains": [
+                "www.presidio.com",
+                "mail.presidio.com"
+            ]
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-01-16 06:38:36",
+        "tool": "Dig",
+        "target": "presidio.com",
+        "summary": "DNS Records Retrieved",
+        "output": {
+            "A_Record": [
+                "23.185.0.1"
+            ],
+            "MX_Records": [
+                "10 sva-mx02.presidio.com.",
+                "10 sva-mx01.presidio.com.",
+                "10 orl-mx01.presidio.com.",
+                "10 orl-mx02.presidio.com."
+            ],
+            "TXT_Records": [
+                [
+                    "google-site-verification=NPwPk_uvlz28a-SXeGABCJOf-iq0-cyV8PqrcHWdRgI"
+                ],
+                [
+                    "google-site-verification=N3KPON8wZEogFyAjrMiSNe8xOMu4omWAoXdUYw5eV9M"
+                ],
+                [
+                    "have-i-been-pwned-verification=f78233d436ec7d84b0c0975c9863a23d"
+                ],
+                [
+                    "onetrust-domain-verification=25a0346431b646f0bcfc5c13b4b19d19"
+                ],
+                [
+                    "teamviewer-sso-verification=a8f63b35cd1d48879e90243782083513"
+                ],
+                [
+                    "teamviewer-sso-verification=1de803ceda6f47ff9f41b84e67e905d5"
+                ],
+                [
+                    "miro-verification=be38040b44a22c9a9510a86d1541a94983e613c9"
+                ],
+                [
+                    "adobe-sign-verification=51d86191643a04912817ffae2fd5206"
+                ],
+                [
+                    "apple-domain-verification=dxl9WWyTOx60QxaN"
+                ],
+                [
+                    "v=spf1 redirect=4tzgge6x._spf._d.mim.ec"
+                ],
+                [
+                    "ZOOM_verify_CAkKpTCJQI6pwAhX9QuAiA"
+                ],
+                [
+                    "9cc85f60540e43cfb54fbbc76059da01"
+                ],
+                [
+                    "m68sfkhs1l4ue6ulr40uit0043"
+                ],
+                [
+                    "6qocumaj3v033gps370dtkjocv"
+                ],
+                [
+                    "1nik9fmud6gdfjfiv9oe8stscd"
+                ],
+                [
+                    "MS=ms56466268"
+                ],
+                [
+                    "MS=ms95452072"
+                ],
+                [
+                    "adeptat-domain-verification=fDhkXAYCTHBFmg5QFX8amYBMXfR2tonGqo-MGMoJ"
+                ],
+                [
+                    "calendly-site-verification=puGEz9JHQYXlfuoY6gyFwWA0XM8qo2xGpjo1hMr6m"
+                ],
+                [
+                    "openai-domain-verification=dv-ErvYpCyuvdCORh2cz4eOF4f2"
+                ],
+                [
+                    "jamf-site-verification=xO-AwQ-mgmoW88HR_YuTow"
+                ],
+                [
+                    "atlassian-sending-domain-verification=09e08a84-b483-4026-bb8b-425bc8de3fb4"
+                ],
+                [
+                    "montycloud=fc42bb7abd733a9ce4ac4b15452fb053"
+                ],
+                [
+                    "atlassian-domain-verification=yyoWcM9yECQRfLrM4UPfD5rCZdycgVu2mTVFZEbsJ+VFBv+qfz12EAJg/XVS6skl"
+                ],
+                [
+                    "atlassian-domain-verification=uxKCSPYrwoqmxnLj2afF6pS64oLcCbuMCVmsL0OF1Ry7WgY7rvTQcpyOdzKcnxBn"
+                ],
+                [
+                    "4uvWjvjq5BuIUpPsOUYAtI/U6hDRNql/IVObh1ARaVUy3l26oa0FUdI/y4pKfxh64YQ1YR8OPQmzq+055lZbYQ=="
+                ],
+                [
+                    "/EpAex2rpUHEToMIHeSB8LOODZ/5DiNhWLA+ZPqn8n676NLXrhGFfwR5L1o7jpd3fcm6Q3KkJz+DWKWOd3x3dQ=="
+                ],
+                [
+                    "pardot861831=346ee7e19a229cf1a8526ebfeae0d2c9500da8aa0334506dfaca07e29193f143"
+                ],
+                [
+                    "pardot861321=97b9ea848944c3f2ccf1c60a6f9b9da9b3655e91d59bfa7f2ab19ea772f3a92a"
+                ],
+                [
+                    "google-site-verification=xr2dwlfjfv4UA3_iK4dJH05SOYDu0ImduW2zwxm94Uc"
+                ],
+                [
+                    "google-site-verification=uAU0BowyRCVZCECgyDQ2Lbm3jUWUSo8stVGYl6DEI1E"
+                ],
+                [
+                    "google-site-verification=VYx9Y8JGOFExnsTEbUpcxfNjavJjX89sngOVpJfFFuk"
+                ]
+            ],
+            "NS_Records": [
+                "euns01.presidio.com.",
+                "pubns0.presidio.com.",
+                "pubns1.presidio.com.",
+                "euns02.presidio.com.",
+                "pubns3.presidio.com.",
+                "pubns4.presidio.com."
+            ],
+            "CNAME_Records": "No CNAME record found"
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-01-16 06:36:28",
+        "tool": "Dig",
+        "target": "presidio.com",
+        "summary": "DNS Records Retrieved",
+        "output": {
+            "A_Record": "No A record found",
+            "MX_Records": "No MX record found",
+            "TXT_Records": "No TXT record found",
+            "NS_Records": "No NS record found",
+            "CNAME_Records": "No CNAME record found"
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-01-16 06:36:13",
+        "tool": "Dig",
+        "target": "presidio.com",
+        "summary": "DNS Records Retrieved",
+        "output": {
+            "A_Record": "No A record found",
+            "MX_Records": "No MX record found",
+            "TXT_Records": "No TXT record found",
+            "NS_Records": "No NS record found",
+            "CNAME_Records": "No CNAME record found"
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-01-16 06:33:34",
+        "tool": "Dig",
+        "target": "presidio.com",
+        "summary": "DNS Records Retrieved",
+        "output": {
+            "A_Record": "No A record found",
+            "MX_Records": "No MX record found",
+            "TXT_Records": "No TXT record found",
+            "NS_Records": "No NS record found",
+            "CNAME_Records": "No CNAME record found"
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-01-16 06:33:06",
+        "tool": "Dig",
+        "target": "presidio.com",
+        "summary": "DNS Records Retrieved",
+        "output": {
+            "A_Record": "No A record found",
+            "MX_Records": "No MX record found",
+            "TXT_Records": "No TXT record found",
+            "NS_Records": "No NS record found",
+            "CNAME_Records": "No CNAME record found"
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-01-16 06:33:00",
+        "tool": "Dig",
+        "target": "presidio.com",
+        "summary": "DNS Records Retrieved",
+        "output": {
+            "A_Record": "No A record found",
+            "MX_Records": "No MX record found",
+            "TXT_Records": "No TXT record found",
+            "NS_Records": "No NS record found",
+            "CNAME_Records": "No CNAME record found"
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-01-16 06:32:37",
+        "tool": "Dig",
+        "target": "presidio.com",
+        "summary": "DNS Records Retrieved",
+        "output": {
+            "A_Record": "No A record found",
+            "MX_Records": "No MX record found",
+            "TXT_Records": "No TXT record found",
+            "NS_Records": "No NS record found",
+            "CNAME_Records": "No CNAME record found"
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-01-16 06:32:22",
+        "tool": "Dig",
+        "target": "google.com",
+        "summary": "DNS Records Retrieved",
+        "output": {
+            "A_Record": "No A record found",
+            "MX_Records": "No MX record found",
+            "TXT_Records": "No TXT record found",
+            "NS_Records": "No NS record found",
+            "CNAME_Records": "No CNAME record found"
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2026-01-03 05:29:08",
+        "tool": "Dig",
+        "target": "kietgroup.com",
+        "summary": "DNS Records Retrieved",
+        "output": {
+            "A_Record": [
+                "50.63.8.150"
+            ],
+            "MX_Records": [
+                "1 aspmx.l.google.com.",
+                "10 alt4.aspmx.l.google.com.",
+                "10 alt3.aspmx.l.google.com.",
+                "5 alt1.aspmx.l.google.com.",
+                "5 alt2.aspmx.l.google.com."
+            ],
+            "TXT_Records": "No TXT record found",
+            "NS_Records": [
+                "ns65.domaincontrol.com.",
+                "ns66.domaincontrol.com."
+            ],
+            "CNAME_Records": "No CNAME record found"
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2025-12-22 06:18:10",
+        "tool": "WPScan",
+        "target": "https://iiit.ac.in",
+        "summary": "WordPress Scan Completed",
+        "output": "\n[i] URL: https://iiit.ac.in\n[+] WordPress detected\n\n\n[+] Enumerating plugins:\n - add-search-to-menu\n - add-to-any\n - advanced-iframe\n - akismet\n - contact-form-7\n - elementor\n - elementor-pro\n - elementskit-lite\n - essential-addons-for-elementor-lite\n - jet-tricks\n - jetpack\n - premium-addons-for-elementor\n - wordfence\n - yoast-seo\n\n[+] Enumerating themes:\n - hello-elementor\n\n[+] Users (from REST API):\n - Arjun Rajasekar (ID: 24, Slug: arjun-rajasekar)\n - C V Jawahar (ID: 26, Slug: jawahar)\n - Consultant IIIT (ID: 2, Slug: consultant)\n - Deepa Shailendra (ID: 10, Slug: deepa-shailendra)\n - Dr. Harikumar Kandath (ID: 17, Slug: dr-harikumar-kandath)\n - Dr. Karthik Vaidhyanathan (ID: 20, Slug: dr-karthik-vaidhyanathan)\n - E-Cell at IIITH (ID: 27, Slug: e-cell-at-iiith)\n - Nimmi Rangaswamy (ID: 6, Slug: nimmi-rangaswamy)\n - Prof Deva Priyakumar (ID: 13, Slug: prof-deva-priyakumar)\n - Prof P J Narayanan (ID: 8, Slug: prof-p-j-narayanan)\n",
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2025-12-22 06:17:28",
+        "tool": "Wappalyzer",
+        "target": "https://iiit.ac.in",
+        "summary": "Technologies Detected: 12",
+        "output": "\nTarget: https://iiit.ac.in\n\n[+] Font Awesome (4, 5.15.3, 4.9.36) [Font scripts]\n[+] AddToAny [Widgets]\n[+] Google Font API [Font scripts]\n[+] Swiper Slider [Miscellaneous]\n[+] jQuery (3.7.1, 3.4.1, 1.0.1, 1.13.3, 3.18.2) [JavaScript libraries]\n[+] Nginx [Web servers, Reverse proxies]\n[+] WordPress [CMS, Blogs]\n[+] Slick [JavaScript libraries]\n[+] jQuery Migrate (3.4.1) [JavaScript libraries]\n[+] MySQL [Databases]\n[+] Elementor (1.0.0, 3.18.1) [Page builders]\n[+] PHP [Programming languages]\n",
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2025-12-22 06:16:43",
+        "tool": "Wappalyzer",
+        "target": "https://kietgroup.com",
+        "summary": "Technologies Detected: 6",
+        "output": "\nTarget: https://kietgroup.com\n\n[+] Microsoft ASP.NET [Web frameworks]\n[+] IIS (10.0) [Web servers]\n[+] Font Awesome (6.4.0) [Font scripts]\n[+] Alpine.js [JavaScript frameworks]\n[+] Windows Server [Operating systems]\n[+] Plesk [Hosting panels]\n",
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2025-12-22 06:16:08",
+        "tool": "Dig",
+        "target": "kietgroup.com",
+        "summary": "DNS Records Retrieved",
+        "output": {
+            "A_Record": [
+                "50.63.8.150"
+            ],
+            "MX_Records": [
+                "1 aspmx.l.google.com.",
+                "10 alt4.aspmx.l.google.com.",
+                "10 alt3.aspmx.l.google.com.",
+                "5 alt1.aspmx.l.google.com.",
+                "5 alt2.aspmx.l.google.com."
+            ],
+            "TXT_Records": "No TXT record found",
+            "NS_Records": [
+                "ns65.domaincontrol.com.",
+                "ns66.domaincontrol.com."
+            ],
+            "CNAME_Records": "No CNAME record found"
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2025-12-21 07:03:41",
+        "tool": "Traceroute",
+        "target": "qubitech.io",
+        "summary": "Traceroute Completed",
+        "output": "traceroute to qubitech.io (172.67.148.70), 30 hops max, 60 byte packets\n 1  172.18.0.1 (172.18.0.1)  2.910 ms  0.068 ms  0.026 ms\n 2  * * *\n 3  * * *\n 4  * * *\n 5  * * *\n 6  * * *\n 7  * * *\n 8  * * *\n 9  * * *\n10  * * *\n11  * * *\n12  * * *\n13  * * *\n14  * * *\n15  * * *\n16  * * *\n17  * * *\n18  * * *\n19  * * *\n20  * * *\n21  * * *\n22  * * *\n23  * * *\n24  * * *\n25  * * *\n26  * * *\n27  * * *\n28  * * *\n29  * * *\n30  * * *\n",
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2025-12-21 07:02:47",
+        "tool": "Wafw00f",
+        "target": "https://qubitech.io",
+        "summary": "WAF Detection Completed",
+        "output": "\n[*] Checking https://qubitech.io\n\n[+] The site is behind a WAF:\n Cloudflare\n",
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2025-12-21 07:02:17",
+        "tool": "Wappalyzer",
+        "target": "https://qubitech.io",
+        "summary": "Technologies Detected: 5",
+        "output": "\nTarget: https://qubitech.io\n\n[+] Node.js [Programming languages]\n[+] Next.js [Web frameworks, Web servers]\n[+] webpack [Miscellaneous]\n[+] React [JavaScript frameworks]\n[+] Cloudflare [CDN]\n",
+        "status": "Completed"
+    },
+    {
+        "id": 51,
+        "timestamp": "2025-12-21 07:02:06",
+        "tool": "Recon-ng",
+        "target": "qubitech.io",
+        "summary": "Hosts Found: 0",
+        "output": "\n[*] Target: qubitech.io\n\n[+] Hosts found: 0\n",
+        "status": "Completed"
+    },
+    {
+        "id": 50,
+        "timestamp": "2025-12-21 07:01:35",
+        "tool": "theHarvester",
+        "target": "qubitech.io",
+        "summary": "Emails: 1, Hosts: 0",
+        "output": "\n[*] Target: qubitech.io\n\n[+] Emails found: 1\n support@qubitech.io\n\n[+] Hosts found: 0\n\n\n[+] IPs found: 2\n 172.67.148.70\n 104.21.29.12",
+        "status": "Completed"
+    },
+    {
+        "id": 49,
+        "timestamp": "2025-12-21 07:01:21",
+        "tool": "Sublist3r",
+        "target": "qubitech.io",
+        "summary": "Subdomains Found: 0",
+        "output": "\n[-] Enumerating subdomains for qubitech.io\n\n[-] Total Unique Subdomains Found: 0\n\n",
+        "status": "Completed"
+    },
+    {
+        "id": 48,
+        "timestamp": "2025-12-21 07:00:54",
+        "tool": "Dnsmap",
+        "target": "qubitech.io",
+        "summary": "Subdomains Found: 2",
+        "output": [
+            "www.qubitech.io",
+            "api.qubitech.io"
+        ],
+        "status": "Completed"
+    },
+    {
+        "id": 47,
+        "timestamp": "2025-12-21 07:00:43",
+        "tool": "Dnsenum",
+        "target": "qubitech.io",
+        "summary": "DNS Enumeration Completed",
+        "output": {
+            "records": {
+                "A_Records": [
+                    "172.67.148.70",
+                    "104.21.29.12"
+                ],
+                "AAAA_Records": [
+                    "2606:4700:3033::6815:1d0c",
+                    "2606:4700:3036::ac43:9446"
+                ],
+                "MX_Records": [
+                    "0 qubitech-io.mail.protection.outlook.com."
+                ],
+                "NS_Records": [
+                    "devin.ns.cloudflare.com.",
+                    "imani.ns.cloudflare.com."
+                ],
+                "TXT_Records": [
+                    "\"v=spf1 include:spf.protection.outlook.com -all\""
+                ],
+                "SOA_Records": [
+                    "devin.ns.cloudflare.com. dns.cloudflare.com. 2391345630 10000 2400 604800 1800"
+                ]
+            },
+            "subdomains": [
+                "www.qubitech.io",
+                "api.qubitech.io"
+            ]
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 46,
+        "timestamp": "2025-12-21 07:00:25",
+        "tool": "Dig",
+        "target": "qubitech.io",
+        "summary": "DNS Records Retrieved",
+        "output": {
+            "A_Record": [
+                "172.67.148.70",
+                "104.21.29.12"
+            ],
+            "MX_Records": [
+                "0 qubitech-io.mail.protection.outlook.com."
+            ],
+            "TXT_Records": [
+                [
+                    "v=spf1 include:spf.protection.outlook.com -all"
+                ]
+            ],
+            "NS_Records": [
+                "devin.ns.cloudflare.com.",
+                "imani.ns.cloudflare.com."
+            ],
+            "CNAME_Records": "No CNAME record found"
+        },
+        "status": "Completed"
+    },
+    {
+        "id": 45,
+        "timestamp": "2025-12-21 05:45:12",
+        "tool": "Traceroute",
+        "target": "iiit.ac.in",
+        "summary": "Traceroute Completed",
+        "output": "traceroute to iiit.ac.in (196.12.53.50), 30 hops max, 60 byte packets\n 1  172.18.0.1 (172.18.0.1)  5.089 ms  3.890 ms  3.777 ms\n 2  * * *\n 3  * * *\n 4  * * *\n 5  * * *\n 6  * * *\n 7  * * *\n 8  * * *\n 9  * * *\n10  * * *\n11  * * *\n12  * * *\n13  * * *\n14  * * *\n15  * * *\n16  * * *\n17  * * *\n18  * * *\n19  * * *\n20  * * *\n21  * * *\n22  * * *\n23  * * *\n24  * * *\n25  * * *\n26  * * *\n27  * * *\n28  * * *\n29  * * *\n30  * * *\n",
+        "status": "Completed"
+    }
+]

@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --cyber-bg: #09090b;
+  --cyber-card: #18181b;
+  --cyber-border: #27272a;
+}
+
+body {
+  background-color: var(--cyber-bg);
+  color: #fafafa;
+  font-family: 'Inter', sans-serif;
+  overflow-x: hidden;
+  background-image: radial-gradient(circle at 50% 0%, #1e1e24 0%, transparent 70%);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #27272a;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3f3f46;
+}
+
+@layer components {
+
+  /* Modern Glass Panel */
+  .glass-panel {
+    @apply bg-cyber-card/80 backdrop-blur-md border border-white/5 rounded-xl shadow-glass transition-all duration-300;
+  }
+
+  /* Modern Hover Effect */
+  .glass-panel:hover {
+    @apply border-white/10 shadow-lg translate-y-[-2px];
+  }
+
+  /* Modern Input */
+  .cyber-input {
+    @apply w-full bg-black/20 border border-white/10 rounded-lg px-4 py-2.5 text-sm text-white focus:outline-none focus:border-cyber-primary/50 focus:ring-2 focus:ring-cyber-primary/20 transition-all duration-200;
+  }
+
+  /* Modern Button - Primary */
+  .cyber-button-primary {
+    @apply px-5 py-2.5 bg-cyber-primary text-white font-medium text-sm rounded-lg hover:bg-opacity-90 shadow-md hover:shadow-modern-glow transition-all duration-200 active:scale-95;
+  }
+
+  /* Modern Button - Secondary */
+  .cyber-button-secondary {
+    @apply px-5 py-2.5 bg-[#27272a] text-white font-medium text-sm rounded-lg hover:bg-[#3f3f46] border border-white/5 transition-all duration-200 active:scale-95;
+  }
+
+  /* Table Styles */
+  .cyber-table-header {
+    @apply text-cyber-primary border-b border-white/20 pb-2 uppercase text-xs tracking-wider;
+  }
+
+  .cyber-table-row {
+    @apply border-b border-white/5 hover:bg-white/5 transition-colors;
+  }
+}
+
+/* Terminal Text Effect */
+.terminal-text {
+  font-family: 'Space Mono', monospace;
+}
